@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome to my profile!</h1>
 
 <p align='center'>
-I am aiming to improve programming skills and am open to anyone suggesting improvements!
+I am aiming to improve my programming skills and i'm open to anyone suggesting improvements!
 </p>
 <!--
 **Kiokuu/Kiokuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
